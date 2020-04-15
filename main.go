@@ -10,6 +10,7 @@ import (
 )
 
 func main() {
+	log.SetOutput(os.Stdout)
 	log.SetFlags(0)
 
 	if len(os.Args) != 2 {
