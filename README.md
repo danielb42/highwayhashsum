@@ -12,8 +12,8 @@ This is [minio/highwayhash](https://github.com/minio/highwayhash), a **blazin'**
 ```bash
 $ ./highwayhashsum fileA largeFileB giantFileC
 $ a46507b2b3b6237a8f1d15dfd91dd6a8edb6ca3b7af978d1ecbb63863005656b  fileA
-$ f5ae398a066fe999805704b249c2ef7b79cd0a92f5ae608703ae92ab15634109  fileB
-$ d799b2e6ff862794433e8da31d28ec150098abec6e6ffb90b5f71610697042e3  fileC
+$ f5ae398a066fe999805704b249c2ef7b79cd0a92f5ae608703ae92ab15634109  largeFileB
+$ d799b2e6ff862794433e8da31d28ec150098abec6e6ffb90b5f71610697042e3  giantFileC
 $
 ```
 
